@@ -1,0 +1,7 @@
+
+API_Key= 667e1f5b4b2a2ff4c6564f29aeb186fe
+
+API_URL= https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=667e1f5b4b2a2ff4c6564f29aeb186fe&units=metric
+
+
+Image url = https://openweathermap.org/img/wn/10d@2x.png
